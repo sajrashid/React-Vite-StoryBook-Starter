@@ -12,6 +12,6 @@
 
 ### setup
 
-* Yarn
+* Yarn - install dependencies
 * Yarn dev - starts react app
 * yarn storybook - starts storybook
