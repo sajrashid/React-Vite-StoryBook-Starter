@@ -9,3 +9,9 @@
 
 
 [story book for vite](https://storybook.js.org/blog/storybook-for-vite/)
+
+### setup
+
+* Yarn
+* Yarn dev - starts react app
+* yarn storybook - starts storybook
