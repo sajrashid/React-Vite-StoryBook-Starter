@@ -2,5 +2,10 @@
 
 ## Starter Template- with Tailwind  
 
-* React & Storybook running Vite
+* Minimal
+* React & Storybook running Vite 
 * Tailwind running in JIT mode
+
+
+
+[story book for vite](https://storybook.js.org/blog/storybook-for-vite/)
